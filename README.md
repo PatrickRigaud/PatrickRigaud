@@ -23,4 +23,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickRigaud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-<a href="https://www.linkedin.com/in/PatrickRigaud" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/patrick-rigaud-50417924a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
