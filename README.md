@@ -1,5 +1,5 @@
 ### Eii! Eu sou o Patrick Rigaud! 😁
-😺 Sou um Desenvolvedor FullStack Javascript!
+😺 Desenvolvedor FullStack Javascript!
 <br>
 <li>Cursando Ciências da Computação
 <li>Estudando Typescript
