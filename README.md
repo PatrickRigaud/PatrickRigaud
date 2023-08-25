@@ -2,7 +2,6 @@
 😺 Desenvolvedor FullStack Javascript!
 <br>
 <li>Cursando Ciências da Computação
-<li>Estudando Typescript
 <br>
 <br>
 <div>
